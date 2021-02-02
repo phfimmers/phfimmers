@@ -1,7 +1,7 @@
 ### Hi I'm Philippe,  
 
 I was looking for a reason to learn code for much of my life, and I eventually found one in data science.  
-You'll find group projects here done through training. <br>If you see something about Formula 1 that will be my personal one.  
+You'll find group projects here done through training. <br>If you see something about Formula 1, that will be my personal one.  
 
 
 
