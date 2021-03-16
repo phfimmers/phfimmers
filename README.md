@@ -1,7 +1,7 @@
 ### Hi I'm Philippe,  
 ### Welcome to my GitHub,
 
-I started coding python in 2020 for practicing data science, but I may have been looking for a reason to code since much longer.  
+I started coding python in 2020 for practicing data science, but I think I was looking for a reason to code much longer.  
 You'll find group projects here done through training. <br>If you see something about Formula 1, that will be my personal project.  
 
 [![Linkedin Badge](https://img.shields.io/badge/-phfimmers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phfimmers/)](https://www.linkedin.com/in/phfimmers/)
